@@ -9,6 +9,9 @@ The infrastructure follows AWS best practices by deploying application workloads
 The deployment is designed for a SaaS application and spans two Availability Zones to provide high availability and fault tolerance.
 
 ---
+## Application URL
+
+https://sahil.shreesamarthfiber.in
 
 # Architecture
 
