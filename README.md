@@ -14,6 +14,7 @@ The deployment is designed for a SaaS application and spans two Availability Zon
 https://sahil.shreesamarthfiber.in
 
 # Architecture
+<img width="2432" height="1931" alt="image" src="https://github.com/user-attachments/assets/305345de-180b-4e17-9a87-a406aa16003b" />
 
 ## Components
 
