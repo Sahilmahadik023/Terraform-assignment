@@ -314,8 +314,7 @@ Implement Target Tracking Scaling Policies:
 | EBS Storage               | $4.80 - $6.00          |
 | EBS Snapshots             | $2.50                  |
 | Data Transfer             | $42 - $45              |
-| CloudWatch                | $3 - $8                |
-| Amazon ECR                | $1                     |
+| CloudWatch                | $3 - $8                |                  |
 | Route53                   | $0.50 - $1.50          |
 | ACM                       | $0                     |
 
